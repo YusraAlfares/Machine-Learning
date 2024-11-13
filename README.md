@@ -1,6 +1,11 @@
 # Machine Learning
 
-## Results of experiment
+
+## Project details
+
+This project has been implemented using Python and Jupytr notebook
+
+## Results of experiment & project description 
 
 This project's objective is to provide differences between three different machine learning algorithms, which are KNN, SVM, and Decision Tree
 from the results provided using the stroke dataset, the SVM has achieved an accuracy rate of 95%, but is misleading because it's not actually predicting "Stroke" correctly. This means that the dataset may be imbalanced or that the SVM algorithm has learned the features that differentiate stroke cases well enough, leading it to stick to predicting "no stroke" as a default.
