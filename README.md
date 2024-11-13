@@ -3,7 +3,7 @@
 
 ## Project details
 
-This project has been implemented using Python and Jupytr notebook
+This project has been implemented using Python and Jupyter notebook
 
 ## Results of experiment & project description 
 
